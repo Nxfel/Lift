@@ -1,0 +1,84 @@
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.Form1.resources
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Do\Do\bin\Debug\net6.0-windows\Do.exe
+C:\Users\Acer\source\repos\Do\Do\bin\Debug\net6.0-windows\Do.deps.json
+C:\Users\Acer\source\repos\Do\Do\bin\Debug\net6.0-windows\Do.runtimeconfig.json
+C:\Users\Acer\source\repos\Do\Do\bin\Debug\net6.0-windows\Do.dll
+C:\Users\Acer\source\repos\Do\Do\bin\Debug\net6.0-windows\Do.pdb
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.dll
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\refint\Do.dll
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.pdb
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\ref\Do.dll
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.Properties.Resources.resources
+C:\Users\Acer\source\repos\Do\Do\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.csproj.CopyComplete
+C:\Users\Acer\source\repos\Do\Do\obj\Debug\net6.0-windows\Do.ProgressBarForm.resources
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\bin\Debug\net6.0-windows\Do.exe
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\bin\Debug\net6.0-windows\Do.deps.json
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\bin\Debug\net6.0-windows\Do.runtimeconfig.json
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\bin\Debug\net6.0-windows\Do.dll
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\bin\Debug\net6.0-windows\Do.pdb
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.Form1.resources
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.ProgressBarForm.resources
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.Properties.Resources.resources
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.AssemblyInfo.cs
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.csproj.CopyComplete
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.dll
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\refint\Do.dll
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.pdb
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\Do.genruntimeconfig.cache
+C:\Users\acer\Downloads\2148318AssignmentOne.zip\Do\Do\obj\Debug\net6.0-windows\ref\Do.dll
+C:\New folder (2)\Do\bin\Debug\net6.0-windows\Do.exe
+C:\New folder (2)\Do\bin\Debug\net6.0-windows\Do.deps.json
+C:\New folder (2)\Do\bin\Debug\net6.0-windows\Do.runtimeconfig.json
+C:\New folder (2)\Do\bin\Debug\net6.0-windows\Do.dll
+C:\New folder (2)\Do\bin\Debug\net6.0-windows\Do.pdb
+C:\New folder (2)\Do\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.csproj.AssemblyReference.cache
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.Form1.resources
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.ProgressBarForm.resources
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.Properties.Resources.resources
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.csproj.GenerateResource.cache
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.AssemblyInfoInputs.cache
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.AssemblyInfo.cs
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.csproj.CopyComplete
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.dll
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\refint\Do.dll
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.pdb
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\Do.genruntimeconfig.cache
+C:\New folder (2)\Do\obj\Debug\net6.0-windows\ref\Do.dll
+C:\New folder\New folder (2)\Do\bin\Debug\net6.0-windows\Do.exe
+C:\New folder\New folder (2)\Do\bin\Debug\net6.0-windows\Do.deps.json
+C:\New folder\New folder (2)\Do\bin\Debug\net6.0-windows\Do.runtimeconfig.json
+C:\New folder\New folder (2)\Do\bin\Debug\net6.0-windows\Do.dll
+C:\New folder\New folder (2)\Do\bin\Debug\net6.0-windows\Do.pdb
+C:\New folder\New folder (2)\Do\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.csproj.AssemblyReference.cache
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.Form1.resources
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.ProgressBarForm.resources
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.Properties.Resources.resources
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.csproj.GenerateResource.cache
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.AssemblyInfoInputs.cache
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.AssemblyInfo.cs
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.csproj.CoreCompileInputs.cache
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.csproj.CopyComplete
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.dll
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\refint\Do.dll
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.pdb
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\Do.genruntimeconfig.cache
+C:\New folder\New folder (2)\Do\obj\Debug\net6.0-windows\ref\Do.dll
